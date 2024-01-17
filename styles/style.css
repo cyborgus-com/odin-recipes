@@ -1,5 +1,9 @@
-body {
-  background-color: rgb(184, 184, 184);
+.index {
+  background-color: rgb(223, 223, 223);
   color: rgb(60, 60, 60);
   text-align: center;
+}
+
+.index.others {
+  text-align: left;
 }
